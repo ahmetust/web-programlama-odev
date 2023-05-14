@@ -1,0 +1,4 @@
+<h2> AHMET USTA </h2>
+<p id="Usta"> Çaykur Rizespor, Rize merkezli futbol kulübü. 19 Mayıs 1953'te kurulan takım, 
+iç saha maçlarını Çaykur Didi Stadyumu'nda oynamaktadır.
+ Renkleri mavi yeşildir. 1. Lig'de mücadele etmektedir.  </p>
